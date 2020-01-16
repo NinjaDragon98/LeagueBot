@@ -75,3 +75,4 @@ client.run(token)
 #Exemplo m.addMin(50)@Ninja
 #mee6->adição de pontos (neste caso por mensagem aleatoriamente(random ou rand))
 #criar base de dados para comparação dos runtimes dos episódios (APIs) 
+#toString(?)
