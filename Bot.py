@@ -76,3 +76,5 @@ client.run(token)
 #mee6->adição de pontos (neste caso por mensagem aleatoriamente(random ou rand))
 #criar base de dados para comparação dos runtimes dos episódios (APIs) 
 #toString(?)
+
+#ter uma database para comparar os runtimes dos episódios (por exemplo mal ou anilist (APIs)), a verificação era feita através do registo do user num destes sites
